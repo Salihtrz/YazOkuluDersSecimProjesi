@@ -17,16 +17,13 @@
   </ul>
   <div>
     <h2> Projeye Ait Resimler</h2>
-    <img src="/ProjectScreenShots/localhost_7147_Home_Index.png" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 222302.png" />
     <br/>
-    <img src="/ProjectScreenShots/localhost_7147_AboutUs_Index.png" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 222310.png" />
     <br/>
-    <img src="/ProjectScreenShots/localhost_7147_News_Index.png" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 222321.png" />
     <br/>
-    <img src="/ProjectScreenShots/localhost_7147_UserProfile_Index.png" />
+    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 222327.png" />
     <br/>
-    <img src="/ProjectScreenShots/localhost_7147_Movies_CategoryWithMovies_7.png" />
-    <br/>
-    <img src="/ProjectScreenShots/Ekran görüntüsü 2025-03-01 215853.png" />
   </div>
 </div>
